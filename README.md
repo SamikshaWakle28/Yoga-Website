@@ -67,4 +67,15 @@ This project is developed for educational and wellness purposes.
 ##Output
 
 <img width="1871" height="833" alt="image" src="https://github.com/user-attachments/assets/0fdfafec-1d6b-4d7c-bf7f-aa9c154d055b" />
+<img width="1806" height="829" alt="image" src="https://github.com/user-attachments/assets/3f4dfb7e-e93f-4d02-bc0b-4f14957c9e79" />
+<img width="1795" height="641" alt="image" src="https://github.com/user-attachments/assets/2618d4b0-e9fb-4d68-8c64-a48b56fdc048" />
+<img width="1791" height="612" alt="image" src="https://github.com/user-attachments/assets/d6529f56-ea34-408d-aab3-5d66128a0199" />
+<img width="1789" height="799" alt="image" src="https://github.com/user-attachments/assets/5324f33e-d32b-4557-8590-b7b3f680fe9d" />
+<img width="1645" height="836" alt="image" src="https://github.com/user-attachments/assets/2fc3cc59-03d2-493a-9472-29c45c941c8e" />
+<img width="1468" height="845" alt="image" src="https://github.com/user-attachments/assets/81cb6f0c-73f2-4c65-b8c0-f4d28d494a90" />
+<img width="1432" height="825" alt="image" src="https://github.com/user-attachments/assets/330b38eb-8c32-440c-a3a5-2a087f635113" />
+<img width="669" height="705" alt="image" src="https://github.com/user-attachments/assets/764e4d81-6329-461b-a61d-036725d7d587" />
+
+<img width="726" height="706" alt="image" src="https://github.com/user-attachments/assets/9eea1af8-16a3-410c-b88b-f6266ae49fb3" />
+
 
