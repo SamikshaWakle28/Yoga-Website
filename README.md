@@ -59,7 +59,8 @@ npm run dev
 ```bash
 npm run build
 ```
-
+## Website URL
+```https://meditation-yoga-sdw.netlify.app/```
 ## License
 
 This project is developed for educational and wellness purposes.
