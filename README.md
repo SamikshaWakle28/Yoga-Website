@@ -330,7 +330,7 @@ All third-party images, icons, fonts, and other assets belong to their respectiv
 https://meditation-yoga-sdw.netlify.app/
 
 💻 **GitHub:**
-Add your GitHub repository URL here.
+https://github.com/SamikshaWakle28/Yoga-Website
 
 
 ##Output
