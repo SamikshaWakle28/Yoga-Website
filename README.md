@@ -315,8 +315,10 @@ https://meditation-yoga-sdw.netlify.app/
 💻 **GitHub:**
 https://github.com/SamikshaWakle28/Yoga-Website
 
+---
+
 ## 📸 Website Preview
-##Output
+## Output
 
 <img width="1871" height="833" alt="image" src="https://github.com/user-attachments/assets/0fdfafec-1d6b-4d7c-bf7f-aa9c154d055b" />
 <img width="1806" height="829" alt="image" src="https://github.com/user-attachments/assets/3f4dfb7e-e93f-4d02-bc0b-4f14957c9e79" />
