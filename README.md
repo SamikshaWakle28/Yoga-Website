@@ -231,23 +231,6 @@ The main objectives of this project are:
 * Deploy a production-ready frontend application
 
 ---
-
-## 📸 Website Preview
-
-You can add screenshots of your website here:
-
-```markdown
-![Home Page](./screenshots/home.png)
-
-![Yoga Section](./screenshots/yoga.png)
-
-![Meditation Section](./screenshots/meditation.png)
-
-![Contact Section](./screenshots/contact.png)
-```
-
----
-
 ## 🔮 Future Enhancements
 
 Possible future improvements include:
@@ -332,7 +315,7 @@ https://meditation-yoga-sdw.netlify.app/
 💻 **GitHub:**
 https://github.com/SamikshaWakle28/Yoga-Website
 
-
+## 📸 Website Preview
 ##Output
 
 <img width="1871" height="833" alt="image" src="https://github.com/user-attachments/assets/0fdfafec-1d6b-4d7c-bf7f-aa9c154d055b" />
